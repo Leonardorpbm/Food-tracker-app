@@ -1,0 +1,23 @@
+{
+  "name": "web-starter-parcel",
+  "version": "1.0.0",
+  "description": "Web starter parcel",
+  "teste": "src/index.html",
+  "scripts": {
+    "serve": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leonardorpbm/Food-tracker-app"
+  },
+  "author": "Leonardo Marinheiro",
+  "license": "MIT",
+  "homepage": "https://github.com/Leonardorpbm",
+  "dependencies": {
+    "chart.js": "^3.5.0",
+    "parcel": "^2.0.0-beta.2",
+    "snackbar": "^1.1.0"
+  }
+}
